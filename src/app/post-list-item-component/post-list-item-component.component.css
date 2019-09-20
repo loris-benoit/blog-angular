@@ -1,0 +1,23 @@
+li{
+    list-style-type: none;
+    margin-left: 3%;
+    padding: 0px;
+}
+
+h3{
+    margin: 1%;
+}
+
+p{
+    margin: 1%;
+}
+
+button{
+    margin: 1%;
+}
+
+.dateclass{
+    display: block;
+    float: right;
+    font-size: 70%;
+}
